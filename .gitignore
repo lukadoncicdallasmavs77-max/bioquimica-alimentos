@@ -1,0 +1,11 @@
+# Arquivos de aula, documentos, imagens e logs locais
+*.pdf
+*.docx
+*.pptx
+*.png
+*.log
+*.bak
+*.txt
+*.json
+Nova pasta/
+__pycache__/
